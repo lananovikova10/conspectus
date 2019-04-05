@@ -1,5 +1,9 @@
 # Мутационное тестирование
 
+<p align="right">
+<a href = "https://conf.python.ru/2019"><img src = "https://raw.githubusercontent.com/docops-hq/conf/master/moscowpython/19/static/i_pc.png" width="20px" height=20px"> Moscow Python Conf++</a> 
+</p>
+
 *Никита Соболев, wemakeservices*
 
 ## Проблема-решения
