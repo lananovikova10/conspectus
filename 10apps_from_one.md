@@ -5,7 +5,7 @@
 </p>
 
 
-*Анна Мошкина, IPONWEB*
+*Анна Мошкина, [IPONWEB](https://www.iponweb.com/)*
 
 [Слайды](https://docs.google.com/presentation/d/1dCck9sMmuUQPvCir9rV0ht8mwksHtyVM2q5JiaZ1yvI/edit#slide=id.g43beb5c952_0_0)
 
