@@ -1,7 +1,7 @@
 # Как создать 10 приложений из одного и не сойти с ума
 
 <p align="right">
-<a href = "https://conf.python.ru/2019"><img src = "./static/i_pc.png" width="20px" height=20px"> Moscow Python Conf++</a> 
+<a href = "https://conf.python.ru/2019"><img src = "https://raw.githubusercontent.com/docops-hq/conf/master/moscowpython/19/static/i_pc.png" width="20px" height=20px"> Moscow Python Conf++</a> 
 </p>
 
 
