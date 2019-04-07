@@ -41,8 +41,8 @@
 [Pic1](https://ibb.co/hBchWXr)
 
 * CosmicRay
-* MutePy
-* MuteMute
+* MutPy
+* MutMut - *в докладе рассказ вот об этом*
 
 ## Какие ошибки можно найти
 
