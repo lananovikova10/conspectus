@@ -2,8 +2,19 @@
 
 Конспекты докладов конференции [MoscowPythonConf++](https://conf.python.ru/2019). 
 
-# Список
+## Список
 
 * [Мутационное тестирование](https://github.com/lananovikova10/conspectus/blob/master/teenagemutantninjaturtles.md)
 * [DDD](https://github.com/lananovikova10/conspectus/blob/master/ddd.md)
 * [Как создать 10 приложений из одного и не сойти с ума](https://github.com/lananovikova10/conspectus/blob/master/10apps_from_one.md)
+
+# Конспекты докладов с UseDataConf
+
+Конспекты докладов с UseDataConf http://usedata.ru/2019 
+
+## Список
+
+* [Машинное обучение для предсказания продаж интернет-магазина Ozon.ru](https://github.com/lananovikova10/conspectus/blob/master/sales_vanga.md)
+
+
+
