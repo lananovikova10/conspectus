@@ -16,5 +16,11 @@
 
 * [Машинное обучение для предсказания продаж интернет-магазина Ozon.ru](https://github.com/lananovikova10/conspectus/blob/master/sales_vanga.md)
 
+# Конспекты докладов с SaintTeamLead2019
+
+## Список
+
+* [Как мы создавали карту развития для разработчиков](https://github.com/lananovikova10/conspectus/blob/master/developers_map.md)
+
 
 
