@@ -23,5 +23,10 @@
 * [Как мы создавали карту развития для разработчиков](https://github.com/lananovikova10/conspectus/blob/master/developers_map.md)
 * [Знания и компетенции в команде: найти, увидеть, прокачать](https://github.com/lananovikova10/conspectus/blob/master/knowledge-competence-team.md)
 
+# Конспекты докладов с TeamLeadConf 2020
 
+Конспекты докладов конференции [TeamLeadConf](http://teamleadconf.ru/). 
 
+## Список
+
+* [Универсальная карта компетенций]()
