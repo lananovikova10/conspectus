@@ -37,4 +37,4 @@
 
 ## Список
 
-* [Тренды knowledge management. Как разработчикам заработать на управлении знаниями](../know-man-money.md)
+* [Тренды knowledge management. Как разработчикам заработать на управлении знаниями](know-man-money.md)
